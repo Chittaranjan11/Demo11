@@ -1,2 +1,2 @@
 # Demo11
-This is my very 1st repository which is for the demo purpose
+This is my very 1st repository which is for the demo purpose for exploring the git tool.
