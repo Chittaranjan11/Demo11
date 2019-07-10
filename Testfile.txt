@@ -3,3 +3,8 @@
     <b>Name of your State</b><br>
     Maharashtra
 </p>
+<p>Git has the following Languages names:</p>
+<p>
+    <b>Name of your Mother Tounge</b><br>
+    Marathi
+</p>
